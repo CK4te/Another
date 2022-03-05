@@ -17,7 +17,7 @@ If you want to improve this project, then write to the author @Uncle_Milty in a 
 
 
 
-# Russian
+# Russian:
 
 ## Another (Другая)
 Позволяет кастомизировать голосового помошника Siri на вашем apple устройстве. Необходим [Jailbreak](https://www.cydiafree.com) устройства!
