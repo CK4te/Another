@@ -22,11 +22,13 @@ If you want to improve this project, then write to the author @Uncle_Milty in a 
 ## Another (Другая)
 Позволяет кастомизировать голосового помошника Siri на вашем apple устройстве. Необходим Jailbreak устройства!
 
-### Компиляция
-    - Для компиляции этого твика необходимо установить Theos (https://theos.dev/)
-    - Так же необходимо скачать libGcUniversal: (https://github.com/MrGcGamer/LibGcUniversalDocumentation)
+### Компиляция   
+  - Для компиляции этого твика необходимо установить [Theos](https://theos.dev/)
+  - Так же необходимо скачать [libGcUniversal](https://github.com/MrGcGamer/LibGcUniversalDocumentation)
     
 ### Совместимость
 Данный твик работает на всех iPhone, iPad, iPod Touch, на которых установлена iOS 13.x/14.x
 
 ### Лицензия
+Запрещается использовать данный проект в коммерческих целях!
+Если у вас есть предложения по улучшению, просьба написать автору в телеграм: @Uncle_Milty
